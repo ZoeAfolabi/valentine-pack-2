@@ -91,6 +91,12 @@ body {
   font-family: Roboto;
   color: #929292;
 }
+.text-container p{
+    font-weight: 500;
+    padding: 10px;
+    margin-top: 10vh;
+    text-align: center;
+}
 
 .f-box {
   width: 100%;
